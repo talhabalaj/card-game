@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 
+[scripts]
+main = "python src/main.py"
+
 [dev-packages]
 
 [requires]
